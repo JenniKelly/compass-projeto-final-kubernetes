@@ -109,7 +109,7 @@ O frontend depende do backend para funcionar corretamente. Com o backend já mig
 
 ### 3. Diagrama de Arquitetura 
 
-
+![Diagrama migração](images/diagrama_migracao.png)
 
 ---
 #
@@ -278,7 +278,7 @@ Revise as políticas de Security Groups e IAM para garantir que apenas os recurs
 
 ### 2. Diagrama da Arquitetura
 
-
+![Diagrama modernização](images/diagrama_modernizacao.png)
 
 ---
 
